@@ -1,1 +1,1 @@
-This AirBnB clone project works with a console that uses the cmd python module. This project was built with OOP so you can create, show, all, update, destroy BaseModels, places or Cities objects among others.
+This AirBnB clone project works with a console that uses the cmd python module. This project was built with OOP so you can create, show, all, update, destroy BaseModels, places or Cities objects among others .
